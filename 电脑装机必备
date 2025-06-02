@@ -1,0 +1,219 @@
+​
+
+1.必备工具软件类（Windows_tools）
+
+    7-zip：文件夹压缩工具
+
+    astah：软件工程UML画图工具，基于项目的app
+
+    EasySpider:网页爬虫工具（项目地址：https://github.com/NaiboWang/EasySpider）
+
+    Dism++：磁盘清理工具（包含空间回收、驱动管理、系统优化等功能）
+
+    Umi-ORC：识别截图中的文字，实现截图中的文字Copy（已设置开机自启）
+
+    PandaOCR：用于公式识别，实现：公式截图一键Copy（已被在线网站simpletex平替）
+
+    Postman：Web请求测试工具
+
+    Typora：Markdown文档工具
+
+    Xmind：思维导图工具
+
+    SpaceSniffer：磁盘可视化视图工具
+
+    Notepad++：记事本增强工具
+
+    Ditto：剪切板增强工具（已设置开机自启）
+
+    Snipaste：截图工具（已设置开机自启）
+
+    Clash.for.Windows：科学上网工具
+
+    FirefoxFQ：科学上网工具（Github源码）
+
+    Potplayer：视频播放器
+
+    Everything：文件搜素工具
+
+    Balsamiq Wireframes：笑脸画图工具（基于项目的app，适合画一些IT行业的图）
+
+    Uninstall_Tool：卸载工具（强制删除、删除注册表、设置开机自启）
+
+    EV录屏：用过的最好用的录屏软件
+
+    MinerU：PDF转Markdown
+
+    Motrix：视频下载工具（搭配油猴插件https://greasyfork.org/scripts/469407一起使用，主要用于批量下载BiliBili视频）
+
+    yt-dlp：使用命令行下载一切能访问到的视频（项目地址：https://github.com/yt-dlp/yt-dlp）
+
+    Recuva或Stellar Data Recovery：文件恢复工具（用于恢复未被flash的磁盘块）
+
+    dev-sidecar或Steam++：GitHub加速工具
+
+    rufus或UltraISO：系统盘录入软件
+
+    Zotero：文献管理工具
+
+    Quicker：工具箱动作大全（集成了pdf处理、公式识别等常用工具集，Quicker官网有很丰富的社区生态）
+
+2.编程类相关软件
+
+    Git：版本控制
+
+    Microsoft VS Code：适合写python、java、前端、C等语言（已经代替PyCharm）
+
+    PyCharm：Python项目开发
+
+    IntelliJ IDEA：Java项目开发
+
+    Cursor/Trae：AI编程
+
+    DataGrip：数据库可视化工具（个人不常用，已被Navicat代替）
+
+    Navicat：数据库可视化工具
+
+    Xshell：远程连接工具
+
+    Xftp：Xshell配套文件管理工具
+
+    VMware：虚拟机
+
+    Docker Desktop：Docker客户端
+
+    Cherry Studio：AI客户端
+
+3.开发环境搭建
+
+    java相关环境：JDK+Maven+Tomcat（非必备，可用插件平替）+mqspl+IDEA
+
+    JS环境：NodeJs
+
+    Python相关环境：Anaconda+CUDA+VSCode
+
+    Hadoop环境：JDK+Hadoop+Spark（Scala环境）+Linux环境
+
+4.浏览器收藏类
+
+python学习：
+
+    菜鸟教程：Python3 File 方法 | 菜鸟教程
+
+    Python3.9官方文档：3.9.22 Documentation
+
+    Python包官方网站：PyPI · The Python Package Index
+
+    廖雪峰python文档：简介 - Python教程 - 廖雪峰的官方网站
+
+    VSCode调试python文档：Vscode调试python项目 · 语雀
+
+    Pytorch安装对应cuda+python的轮子文件https://download.pytorch.org/whl/torch/
+
+ 工具类：
+
+    AST解析：AST explorer
+
+    Idea激活：IDE激活网
+
+    PDF转换：PDF24 Tools: 免费且易于使用的在线PDF工具
+
+    在线沙箱（国外）：VirusTotal
+
+    在线沙箱（国内）：https://s.threatbook.com/
+
+    Json在线解析：编辑器 | JSON For You | 在线JSON工具
+
+    Cursor相关文档：https://www.kdocs.cn/l/clf4xOs5a3Q1
+
+    控制流图可视化（dot等格式）：https://dreampuf.github.io/
+
+    油猴国内镜像：Greasy Fork镜像 - 安全且实用的用户脚本站
+
+    油猴国内镜像2：Greasy Fork镜像 - 安全且实用的用户脚本站
+
+    Navicat16破解：Navicat Premium 16 永久破解激活 - 酷酷的洛克 - 博客园
+
+    Quicker动作库：动作库 - Quicker
+
+    Simpletex公式识别：SimpleTex - Snip & Get!
+
+    美国身份生成：美国身份证生成，美国人地址信息生成-世界各国身份信息、地址、信用卡生成器
+
+    Maven官方仓库：https://mvnrepository.com/
+
+AI工具：
+
+    大模型竞技场：https://lmarena.ai/
+
+    DS的api平台：DeepSeek
+
+    GPT官网：https://chatgpt.com/
+
+    Gemini开发者平台：https://aistudio.google.com/
+
+    Gemini的NotebookLM：https://notebooklm.google.com/
+
+    Gemini的官网：https://gemini.google.com/
+
+    HuggingFace国内镜像：HF-Mirror
+
+编程学习：
+
+    鱼皮的编程导航：编程导航 - 程序员一站式编程学习交流社区，做您编程学习路上的导航员
+
+    狂神的编程学习：首页-KuangStudy
+
+    尚硅谷大数据学习路线：2025最新大数据学习路线图 - 哔哩哔哩
+
+    黑马的Java学习路线：验证码_哔哩哔哩
+
+    不正经的前端Cursor资料：Docs
+
+Docker学习：
+
+    在线Docker虚拟环境：Play with Docker
+
+    DockerHub官方：https://www.docker.com/
+
+    Docker快速入门文档：🎉 Docker 简介和安装 - Docker 快速入门
+
+    狂神Docker教程：《狂神说Java》docker教程通俗易懂-KuangStudy-文章
+
+科学：
+
+    在线代理ip检测：在线代理ip检测-巨量HTTP
+
+    Vfree Windows教程：V2free 文档中心
+
+    飞1：V2free
+
+    飞2：https://ikuuu.one/user
+
+    飞3：ef network
+
+    SMS：https://sms-activate.io/cn
+
+MCP：
+
+    Smithery平台MCP查找：Smithery - Model Context Protocol Registry
+
+    MCP.so查找平台：https://mcp.so/zh/explore
+
+    GitHub上MCP查找：GitHub - punkpeye/awesome-mcp-servers: A collection of MCP servers.
+
+    安装uv官方教程：Installation | uv
+
+    Firecrawl爬虫网站：Firecrawl
+
+在线画图：
+
+    DrawDB数据库相关的图：drawDB | Online database diagram editor and SQL generator
+
+    DrawIO通用画图：Flowchart Maker & Online Diagram Software
+
+    数学可视化：GeoGebra - the world’s favorite, free math tools used by over 100 million students and teachers
+
+    神经网络可视化：NN SVG
+
+​
